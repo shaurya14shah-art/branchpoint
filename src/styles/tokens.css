@@ -1,0 +1,49 @@
+:root {
+  color-scheme: dark;
+
+  /* Surfaces — charcoal, stepped by elevation */
+  --bg-0: #09090b;
+  --bg-1: #0f1012;
+  --bg-2: #141518;
+  --bg-3: #1a1c20;
+  --bg-4: #212329;
+  --bg-hover: #1e2025;
+  --bg-active: #262930;
+
+  /* Hairlines */
+  --line-1: #1d1f24;
+  --line-2: #272a30;
+  --line-3: #343841;
+
+  /* Text */
+  --text-1: #ebe8e2;
+  --text-2: #aaa69e;
+  --text-3: #75726c;
+  --text-4: #55534f;
+
+  /* Semantic accents — used sparingly */
+  --accent: #e9e4d8;
+  --focus: #6fa8d6;
+  --info: #6fa8d6;
+  --ok: #7fbf8f;
+  --notable: #a993d6;
+  --warn: #d9a066;
+  --crit: #d36a5f;
+
+  --ocean-0: #0b0e11;
+  --ocean-1: #0e1317;
+  --land: #17191c;
+  --land-line: #2b2e33;
+
+  --radius: 6px;
+  --radius-sm: 4px;
+  --shadow-pop: 0 1px 0 rgba(255, 255, 255, 0.03) inset, 0 12px 32px rgba(0, 0, 0, 0.5), 0 2px 6px rgba(0, 0, 0, 0.4);
+
+  --font: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Inter', 'Segoe UI', system-ui, sans-serif;
+  --mono: ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, monospace;
+
+  --topbar-h: 44px;
+  --sidebar-w: 248px;
+  --inspector-w: 328px;
+  --dock-h: 196px;
+}

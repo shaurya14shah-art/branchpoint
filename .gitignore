@@ -1,0 +1,16 @@
+node_modules
+dist
+*.local
+.env
+.DS_Store
+dist-server
+.env
+.env.*
+!.env.example
+node_modules/
+venv/
+.venv/
+__pycache__/
+.DS_Store
+*.pem
+*.key
